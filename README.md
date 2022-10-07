@@ -8,6 +8,12 @@
 
 Clone down or Download this repository. You will need `python` installed globally on your machine.
 
+## Requirement
+* Install requests
+  ```sh
+  pip3 install requests
+  ```
+
 ## Usage
 
 * Run the script
@@ -18,9 +24,9 @@ Clone down or Download this repository. You will need `python` installed globall
 
 ## Visualization
 <p>
-  <img align="left" src="./preview/preview0.png" width="400" height="350" title="preview0"> 
+  <img align="left" src="./preview/preview0.png" width="420" height="370" title="preview0"> 
   
-  <img align="right" src="./preview/preview1.png" width="400" height="350" title="preview1">
+  <img align="right" src="./preview/preview1.png" width="420" height="370" title="preview1">
 </p>
 
 
